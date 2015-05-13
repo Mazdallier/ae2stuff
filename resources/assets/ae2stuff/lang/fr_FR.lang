@@ -2,3 +2,9 @@ tile.ae2stuff.Encoder.name=Encodeur de modèle
 tile.ae2stuff.Grower.name=Chambre de croissance du crystal
 
 ae2stuff.error.not_connected=Réseau non connecté
+
+ae2stuff.waila.sleep.true=Endormi
+ae2stuff.waila.sleep.false=Eveillé
+ae2stuff.waila.power=%s / %s AE
+
+itemGroup.bdew.ae2stuff=Truc AE2
